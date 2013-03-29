@@ -1,4 +1,3 @@
-hat is it?
 
 It's a simple transport for use with Swiftmailer to send mail over AWS SES.
 
